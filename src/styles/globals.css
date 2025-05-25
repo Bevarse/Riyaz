@@ -1,0 +1,17 @@
+body, html {
+  font-family: serif !important;
+}
+
+.swiper-button-next,
+.swiper-button-prev,
+.swiper-button-next:after,
+.swiper-button-prev:after,
+.swiper-pagination-bullet,
+.swiper-pagination-bullet-active {
+  color: #000 !important;
+
+}
+.swiper-pagination-bullet,
+.swiper-pagination-bullet-active {
+  background: #000 !important;
+}
