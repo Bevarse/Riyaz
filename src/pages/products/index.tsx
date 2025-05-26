@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './products.module.css';
+import styles from './Products.module.css';
 import Link from 'next/link';
 import { useCart } from '../../context/CartContext';
 import { useToast } from '../../components/toast/ToastContext';
